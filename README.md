@@ -1,3 +1,8 @@
 # BD-CaumPetClinic
 
-Trabalho realizado no âmbito da UC de Bases de Dados no ano de 2022/2023
+## 17/20
+
+#### Colaboradores:
+##### [Sara Fontes](https://github.com/Sarafont)
+##### [Nuno Costa](https://github.com/Nuno23C)
+##### [Nelson Almeida](https://github.com/NelsonAlmeida-18)
